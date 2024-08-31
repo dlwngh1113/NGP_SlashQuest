@@ -1,0 +1,33 @@
+[TCP 서버] 클라이언트 접속 : IP주소 = 127.0.0.1, 포트 번호 = 55729
+send login data
+
+[TCP 서버] 클라이언트 접속 : IP주소 = 127.0.0.1, 포트 번호 = 55730
+send login data
+
+red player(ejfdl) join ingame. enemy: eujifdl
+blue player(eujifdl) join ingame. enemy: ejfdl
+[Item Spawned] t = 13972, item.type = 1, item.x = 697, item.y = 8
+[Item Spawned] t = 3006, item.type = 2, item.x = 174, item.y = 304
+[Collision Called]player id - ejfdl, player hp - 4
+[Collision Called]player id - eujifdl, player hp - 4
+[Item Spawned] t = 3016, item.type = 0, item.x = 931, item.y = 249
+[TCP 서버] 클라이언트 종료 : IP주소 = 127.0.0.1, 포트 번호 = 55729
+[TCP 서버] 클라이언트 종료 : IP주소 = 127.0.0.1, 포트 번호 = 55730
+[TCP 서버] 클라이언트 접속 : IP주소 = 127.0.0.1, 포트 번호 = 55731
+send login data
+
+[TCP 서버] 클라이언트 접속 : IP주소 = 127.0.0.1, 포트 번호 = 55732
+send login data
+
+red player(efjdl) join ingame. enemy: ifdjle
+blue player(ifdjle) join ingame. enemy: efjdl
+[Item Spawned] t = 11922, item.type = 0, item.x = 120, item.y = 363
+[TCP 서버] 클라이언트 종료 : IP주소 = 127.0.0.1, 포트 번호 = 55731
+[TCP 서버] 클라이언트 접속 : IP주소 = 127.0.0.1, 포트 번호 = 55733
+send login data
+
+red player(efjdl) join ingame. enemy: ifdjle
+blue player(ifdjle) join ingame. enemy: efjdl
+[Item Spawned] t = 8397, item.type = 0, item.x = 600, item.y = 180
+[TCP 서버] 클라이언트 종료 : IP주소 = 127.0.0.1, 포트 번호 = 55732
+[TCP 서버] 클라이언트 종료 : IP주소 = 127.0.0.1, 포트 번호 = 55733
